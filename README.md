@@ -1,0 +1,2 @@
+# user_process_printer
+This C program utilizes the Linux API to print information about current user processes. Optionally, it can display additional details about the hosts and user groups associated with each process.
