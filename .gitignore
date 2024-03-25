@@ -1,0 +1,7 @@
+# Binary, objects and shared objects
+/bin
+*.o
+*.so
+
+# MacOS folders
+.DS_Store
